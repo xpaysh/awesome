@@ -717,6 +717,7 @@
 - [Cosmos SDK](https://github.com/cosmos/awesome-cosmos#readme) - Modular framework for building app-specific blockchains in Go.
 - [Tor](https://github.com/polycarbohydrate/awesome-tor#readme) - A free overlay network for enabling anonymous communication.
 - [ATProto](https://github.com/atblueprints/awesome-atproto#readme) - Open, decentralized network for building social apps.
+- [x402](https://github.com/xpaysh/awesome-x402#readme) - Internet-native payment protocol using HTTP 402 status code for blockchain payments.
 
 ## Health and Social Science
 
